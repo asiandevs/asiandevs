@@ -3,7 +3,7 @@ About Me
 
 <h1 align="center">Hi 👋, I'm Monowar Mukul</h1>
 <h4 align="center">Passionate about Learning new technology!</h4>
-
+<h3 align="center">The views expressed on this blog are my own and do not reflect the views of my current or previous workplace!</h3>
 
 - 💬 Expertise in **Database Architecture, Automation, Migration**
 
