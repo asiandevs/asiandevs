@@ -6,7 +6,7 @@ About Me
 <h3 align="center">The views expressed on this blog are my own and do not reflect the views of my current or previous workplace!</h3>
 
 
-- 💬 Expertise in **Database Architecture, Automation, Migration**
+- 💬 Expertise in **Cloud Architecture, Automation, Migration**
 
 - 📫 How to reach me **monowar.mukul@gmail.com**
 
