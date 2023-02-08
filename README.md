@@ -3,16 +3,20 @@ About Me
 
 <h1 align="center">Hi 👋, I'm Monowar Mukul</h1>
 <h4 align="center">Passionate about learning new technology!</h4>
-<h3 align="center">The views expressed on this blog are my own and do not reflect the views of my current or previous workplace!</h3>
+<h3 align="center">The views expressed on this blog are my own and do not reflect the views of my current or previous workplaces!</h3>
 
 
 - 💬 Expertise in **Cloud Architecture (AWS, AZURE, OCI), Automation, Migration**
-
 - 📫 How to reach me **monowar.mukul@gmail.com**
-
 - Experience is using **Ansible | Docker | Jenkins | Kubernetes | Openshift**
 - Learning and Practicing **DS | ML | AI**
 
+<h3 align="left">Certifications:</h3>
+
+- **The Open Group Certified: TOGAF® Standard, Version 9.2**
+- **AWS Certified Solutions Architect – Professional**
+- **Microsoft Certified: Azure Solutions Architect Expert** 
+- **OCI 2021 Certified Architect Professional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background: #ffffff;"><a href="https://www.linkedin.com/in/monowarmukul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="monowarmukul" height="30" width="40" /></a>
