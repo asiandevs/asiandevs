@@ -6,7 +6,7 @@ About Me
 <h3 align="center">The views expressed on this blog are my own and do not reflect the views of my current or previous workplaces!</h3>
 
 
-- 💬 Expertise in **Cloud Architecture (AWS, AZURE, OCI), Automation, Migration**
+- 💬 Expertise in **Cloud Architecture (AWS, AZURE, OCI, GCP), Automation, Migration**
 - 📫 How to reach me **monowar.mukul@gmail.com**
 - Experience is using **Ansible | Docker | Jenkins | Kubernetes | Openshift**
 - Learning and Practicing **DS | ML | AI**
