@@ -7,7 +7,7 @@ About Me
 
 
 - 💬 Expertise in **Cloud Architecture (AWS, AZURE, GCP, OCI), Automation, Migration**
-- 📫 How to reach me **monowar.mukul@gmail.com**
+- 📫 Email to reach me **monowar.mukul@gmail.com**
 - Experience is using Devops utilities **Ansible | Docker | Jenkins | Kubernetes | Openshift**
 - Learning and Practicing **DS | ML | AI**
 
