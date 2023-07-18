@@ -14,7 +14,6 @@ About Me
 <h3 align="left">Certifications</h3>
 
 
-- **Cloud Architecture (AWS, AZURE, GCP, OCI), Automation, Migration**
 - **Master of Information Technology Management - USQ, Australia (2005)**
 - **The Open Group Certified: TOGAF® Standard, Version 9.2**
 - **AWS Certified Solutions Architect – Professional**
