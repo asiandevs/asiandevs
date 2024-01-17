@@ -20,6 +20,7 @@ About Me
 - **Microsoft Certified: Azure Solutions Architect Expert** 
 - **Google Cloud Certified - Professional Cloud Architect**
 - **OCI 2021 Certified Architect Professional**
+- **Oracle Certified Master 12c,11g**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background: #ffffff;"><a href="https://www.linkedin.com/in/monowarmukul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="monowarmukul" height="30" width="40" /></a>
