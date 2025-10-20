@@ -17,10 +17,11 @@ About Me
 - **Master of Information Technology Management - USQ, Australia**
 - **The Open Group Certified: TOGAF**
 - **AWS Certified Solutions Architect – Professional**
-- **AWS Certified DevOps Engineer – Professional**
 - **Microsoft Certified: Azure Solutions Architect Expert** 
 - **Google Cloud Certified - Professional Cloud Architect**
 - **OCI Certified Architect Professional**
+- **AWS Certified DevOps Engineer – Professional**
+- **Microsoft Certified: DevOps Engineer Expert**
 - **Oracle Certified Master 12c,11g, MAA**
 
 <h3 align="left">Connect with me:</h3>
